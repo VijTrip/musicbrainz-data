@@ -20,11 +20,9 @@ import java.util.Map;
 import com.google.common.collect.Maps;
 
 public enum Gender {
-  /* */
-  MALE(1, "Male"),
-  /* */
+  /*edited */
   FEMALE(2, "Female"),
-  /* */
+  /*edited */
   OTHER(3, "Other"),
   /* */
   UNDEFINED(null, null);
